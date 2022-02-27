@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Test
+//  LayoutExamples
 //
-//  Created by Mari Batilando on 2/20/22.
+//  Created by Mari Batilando on 2/27/22.
 //
 
 import UIKit
